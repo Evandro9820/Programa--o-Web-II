@@ -1,0 +1,11 @@
+:root{
+    --cor1: #f28d8d;
+    --cor-destaque: #f9655f;
+    --largura-tela: 400px;
+}
+div{
+    height: 400px;
+    width: var(--largura-tela);
+    background-color:var(--cor1);
+    border: px solid var(--cor-destaque);  
+}
