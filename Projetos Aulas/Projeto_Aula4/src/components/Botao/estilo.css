@@ -1,0 +1,9 @@
+.botao{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    align-items: center;
+}   
